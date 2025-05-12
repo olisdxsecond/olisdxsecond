@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This repository contains exploration projects that are still in progress.<br>
+This second repository contains exploratory public projects that are still in progress.<br>
 
 Here are some ideas to get you started:
 
